@@ -10,16 +10,16 @@
 	 height:100%;
 	 position:absolute;
 	 left:0;
-	 top:40px;
-	 background:#ccc;
+	 top:0px;
+	 background:#0000FF;
  }
  .right-none{
 	 width:500px;
 	 height:100%;
 	 position:absolute;
 	 right:0;
-	 top:40px;
-	 background:#ccc;
+	 top:0px;
+	 background:#0000FF;
  }
 .container{
 	 top:0;
@@ -31,7 +31,7 @@
   width: 100px;
   height: 100px;
   margin: 0 auto;
-  margin-top:40px;
+  margin-top:0px;
   margin-bottom: 20px;
   border-radius: 50%;
   border:1px solid #fff;
